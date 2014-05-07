@@ -163,7 +163,7 @@ options:
     description:
       - the private ip address to assign the instance (from the vpc subnet)
     required: false
-    defualt: null
+    default: null
     aliases: []
   instance_profile_name:
     version_added: "1.3"
